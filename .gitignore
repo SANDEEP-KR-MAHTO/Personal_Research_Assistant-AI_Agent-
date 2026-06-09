@@ -1,0 +1,17 @@
+# Environment
+.env
+myenv/
+venv/
+.venv/
+
+# Reports (optional — remove this line if you want to push reports)
+reports/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
