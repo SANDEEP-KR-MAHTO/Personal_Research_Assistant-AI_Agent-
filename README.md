@@ -42,8 +42,8 @@ Simple_AI_Agent/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/your-username/Simple_AI_Agent.git
-cd Simple_AI_Agent
+git clone https://github.com/SANDEEP-KR-MAHTO/Personal_Research_Assistant-AI_Agent-.git
+cd Personal_Research_Assistant-AI_Agent-
 ```
 
 **2. Create a virtual environment**
